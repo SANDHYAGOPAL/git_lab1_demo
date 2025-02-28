@@ -8,6 +8,7 @@ print("testing");
 print("testing remote");
 
 print("testing locally");
+print("hello");
 
 
 
