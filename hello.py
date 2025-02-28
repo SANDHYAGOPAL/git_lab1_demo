@@ -5,5 +5,5 @@ print("Testing new branch");
 print("Jenkins Test Job");
 print("testing");
 print("testing locally");
-print("testing remote");
+
 
