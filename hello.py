@@ -8,7 +8,11 @@ print("testing");
 print("testing remote");
 
 print("testing locally");
+<<<<<<< HEAD
 print("hello");
+=======
+print("Hi");
+>>>>>>> 2a447ea2e686658e44dfcdb3f234dd5b3c529511
 
 
 
